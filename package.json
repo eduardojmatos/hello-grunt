@@ -1,0 +1,19 @@
+{
+  "name": "Hello Grunt!",
+  "version": "0.0.1",
+  "description": "Hello Grunt",
+  "homepage": "http://eduardomatos.me",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/eduardojmatos/hello-grunt"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "devDependencies": {
+    "grunt-cli": "0.1.6",
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.1.1"
+  }
+}
